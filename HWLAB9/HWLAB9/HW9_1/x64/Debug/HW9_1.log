@@ -1,0 +1,8 @@
+﻿  HW9_1.c
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB9\HWLAB9\HW9_1\HW9_1.c(19,7): warning C4013: 'isalpha'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB9\HWLAB9\HW9_1\HW9_1.c(21,12): warning C4013: 'isdigit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB9\HWLAB9\HW9_1\HW9_1.c(31,7): warning C4013: 'isupper'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB9\HWLAB9\HW9_1\HW9_1.c(32,24): warning C4013: 'tolower'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB9\HWLAB9\HW9_1\HW9_1.c(33,12): warning C4013: 'islower'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB9\HWLAB9\HW9_1\HW9_1.c(34,24): warning C4013: 'toupper'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  HW9_1.vcxproj -> C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB9\HWLAB9\x64\Debug\HW9_1.exe

@@ -1,0 +1,5 @@
+﻿  LAB16_5.c
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB16\HWLAB16\LAB16_5\LAB16_5.c(15,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB16\HWLAB16\LAB16_5\LAB16_5.c(12,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB16\HWLAB16\LAB16_5\LAB16_5.c(12,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  LAB16_5.vcxproj -> C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB16\HWLAB16\Debug\LAB16_5.exe

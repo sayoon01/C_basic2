@@ -1,0 +1,7 @@
+﻿  LAB9_3.c
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB9\HWLAB9\LAB9_3\LAB9_3.c(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB9\HWLAB9\LAB9_3\LAB9_3.c(17,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB9\HWLAB9\LAB9_3\LAB9_3.c(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB9\HWLAB9\LAB9_3\LAB9_3.c(18,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB9\HWLAB9\LAB9_3\LAB9_3.c(32,92): warning C4020: 'strcmp': 실제 매개 변수가 너무 많습니다.
+  LAB9_3.vcxproj -> C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB9\HWLAB9\x64\Debug\LAB9_3.exe

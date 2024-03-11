@@ -1,0 +1,4 @@
+﻿  PREP.c
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB4\HWLAB4\PREP\PREP.c(39,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB4\HWLAB4\PREP\PREP.c(84,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  PREP.vcxproj -> C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB4\HWLAB4\Debug\PREP.exe

@@ -1,0 +1,4 @@
+﻿  PROJECT01.c
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB4\HWLAB4\PROJECT01\PROJECT01.c(30,20): warning C4013: 'addOneElement'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB4\HWLAB4\PROJECT01\PROJECT01.c(84,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  PROJECT01.vcxproj -> C:\Users\윤상아\OneDrive\바탕 화면\상아의찐복습\컴프\HWLAB4\HWLAB4\Debug\PROJECT01.exe
